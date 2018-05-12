@@ -1,0 +1,31 @@
+_repo: In-Indian-Mexico--1908-_16183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Starr, Frederick
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '5490'
+    url: http://www.gutenberg.org/2009/agents/5490
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Starr
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16183'
+  lccn: '74009025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Description and travel'
+- !lcsh 'Indians of Mexico'
+- !lcc 'F1201'
+- !lcsh 'Starr, Frederick, 1858-1933'
+title: In Indian Mexico (1908)
+url: http://www.gutenberg.org/ebooks/16183
